@@ -11,3 +11,17 @@ Filename: ./debs/com.lovio.dockbegone_0.0.1-1+debug_iphoneos-arm
 Depictions: https://loviodev.github.io/depictions/dockbegone
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
+
+Package: com.lovio.them
+Name: Them
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Make your status bar display the one you love. (For fun tweak!)
+Maintainer: lovio
+Author: lovio
+Section: Tweaks
+Depends: mobilesubstrate (>=0.9.5000)
+Filename: ./debs/com.lovio.them_0.0.1-1+debug_iphoneos-arm.deb
+Depictions: https://loviodev.github.io/depictions/them
+Size: 3752
+MD5sum: 97a662e39e04843d53a793c50bab9e9f
