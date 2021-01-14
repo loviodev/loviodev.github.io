@@ -4,45 +4,38 @@
 }
 
 body {
-    justify-content: center;
-    align-items: center;
-    font-family: sans-serif;
-    display: flex;
-    background: #eeeeee;
+    background: black;
+    color: white;
+    text-align: center;
 }
 
 h1 {
-    color:#eeeeee;
-    margin-top: 40px;
-    font-size: 55px;
+    font-size: 100px;
+    font-family: sans-serif;
 }
 
 a {
-    color:#eeeeee;
+    color: white;
+    font-family: sans-serif;
     text-decoration: none;
-    position: relative;
-    top: 15%;
-    border:#eeeeee solid 1px;
-    padding: 20px 80px;
+    border: white solid 2px;
+    padding: 15px 80px;
     border-radius: 50px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 67%;
+    outline: none;
 }
 
 p {
-    color: #eeeeee;
+    font-family: sans-serif;
 }
 
 img {
-    margin-top: 40px;
-    width: 30%;
-    box-shadow: rgba(0, 0, 0, 0.322) 0 6px 12px;
+    width: 15%;
+    border-radius: 50%;
 }
 
 .card {
-    text-align: center;
-    margin-top: 190px;
-    position: relative;
-    background: linear-gradient(45deg, rgb(30, 29, 32), rgb(28, 28, 29));
-    width: 450px;
-    height: 500px;
-    box-shadow: rgba(0, 0, 0, 0.644) 0 15px 25px;
+    margin-top: 170px;
 }
