@@ -2,11 +2,11 @@ Package: com.lovio.dockbegone
 Name: DockBeGone
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: Bye bye dock!
+Description: Bye bye dock! Works on iOS 9 - 14.2
 Maintainer: lovio
 Author: lovio
 Section: Tweaks
-Depends: mobilesubstrate
+Depends: mobilesubstrate (>=0.9.5000)
 Filename: ./debs/com.lovio.dockbegone_0.0.1-1+debug_iphoneos-arm
 Depictions: https://loviodev.github.io/depictions/dockbegone
 Size: 860
