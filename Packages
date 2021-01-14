@@ -34,7 +34,7 @@ Description: Bye bye dock!
 Maintainer: lovio
 Author: lovio
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate (>7.0)
 Filename: ./debs/com.lovio.dockbegone_0.0.1-1+debug_iphoneos-arm
 Depictions: https://loviodev.github.io/depictions/dockbegone
 Size: 860
